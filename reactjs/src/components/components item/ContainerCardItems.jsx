@@ -1,4 +1,4 @@
-import fetchSimultion from "../../utils/fetchSimulation";
+import fetchSimultion from "../utils/fetchSimulation";
 import productos from "../../utils/products";
 import { useState, useEffect } from "react";
 import CardItem from "./CardItem";
